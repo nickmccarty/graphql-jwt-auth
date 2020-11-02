@@ -1,0 +1,14 @@
+# Book settings
+title: NLP Next Steps
+author: Nick McCarty, MOPO Engineering
+logo: logo.JPG
+
+html:
+  google_analytics_id: UA-113157729-1
+#   comments:
+#     utterances:
+#       repo: "nickmccarty/mopo-engineering-blog"
+
+latex:
+  latex_documents:
+    targetname: book.tex
